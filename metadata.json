@@ -1,0 +1,6 @@
+{
+  "name": "Yogesh Kumar Resume RAG - Recruiter Chat & Source Citations",
+  "description": "Recruiter Q&A and RAG intelligence app grounded on Yogesh Kumar's 10-year FullStack & AI Developer resume with verified source citations, interactive document viewer, and JD skill match analyzer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
